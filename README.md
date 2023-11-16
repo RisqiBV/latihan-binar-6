@@ -1,2 +1,1 @@
-# latihan-binar-6
-Latihan Chapter 6
+# Latihan Binar Academy Chapter 6
